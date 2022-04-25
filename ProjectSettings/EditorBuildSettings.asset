@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4776e8e9228f25d49a71d769f7713c1b
+  - enabled: 1
+    path: "Assets/Scenes/Ma\u011Faza.unity"
+    guid: 93dc4422233f5c049b735ec1456da5cc
+  - enabled: 1
+    path: Assets/Scenes/KategoriScene/Bilim.unity
+    guid: 4b0186d75aeb6fa4797acbc604657f09
+  - enabled: 1
+    path: "Assets/Scenes/KategoriScene/Co\u011Frafya.unity"
+    guid: e32a75906706213468c0c84417116b4b
+  - enabled: 1
+    path: "Assets/Scenes/KategoriScene/E\u011Flence.unity"
+    guid: 37a4f65d59291764884b2e6cfb6ea4fa
+  - enabled: 1
+    path: "Assets/Scenes/KategoriScene/Kar\u0131\u015F\u0131k.unity"
+    guid: 647fea04ea91e0d4aa4f5d4f3cc6f5a0
+  - enabled: 1
+    path: Assets/Scenes/KategoriScene/Matematik.unity
+    guid: 16e3679b2f5653a43a132c148ee38004
+  - enabled: 1
+    path: Assets/Scenes/KategoriScene/Sanat.unity
+    guid: a5ba1aaa944775745839c03466b64026
+  - enabled: 1
+    path: Assets/Scenes/KategoriScene/Spor.unity
+    guid: a55a331dec969be42a76df55be553127
+  - enabled: 1
+    path: Assets/Scenes/KategoriScene/Tarih.unity
+    guid: 64fb78bae29b26a46b6612b1e86feaa8
+  m_configObjects: {}
